@@ -1,5 +1,3 @@
-# Chamado em API para pesquisa de cpv. Trazendo dados importantes para análise e aplicando a um excell para vizualização.
-
 import pandas as pd
 import requests
 import json
