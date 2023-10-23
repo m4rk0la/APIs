@@ -1,6 +1,6 @@
 # 👨‍💻 Meu Portfólio de Engenharia de Computação 👩‍💻
 
-Bem-vindo ao meu mundo de códigos e inovação! Aqui você vai encontrar uma amostra dos meus projetos, minhas aventuras com APIs de licitações e linguagens de programação favoritas das grandes empresas, além do meu dashboard financeiro 🚀.
+Bem-vindo ao meu mundo de códigos e inovação! Aqui você vai encontrar uma amostra dos meus projetos, minhas aventuras com APIs e linguagens de programação favoritas das grandes empresas, além do meu dashboard financeiro 🚀.
 
 ## 👋 Sobre Mim
 
